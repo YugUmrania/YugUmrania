@@ -1,72 +1,120 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #0e75b6;">
-  Hi 👋, I'm Yug Umrania
-</h1>
-
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #343a40;">
-  A passionate CSE student from India
-</h3>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yugumrania&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Umrania%20Yug%20Pravinbhai&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=yugumrania&theme=onedark&margin-w=10&margin-h=10" alt="Profile Trophy" />
-  </a>
-</p>
+<h3 align="center">🎓 CSE Student | 🚀 Aspiring AI / ML Engineer</h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding Animation" width="400" style="border-radius:12px;"/>
+  <img src="https://komarev.com/ghpvc/?username=YugUmrania&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=2A5298&center=true&vCenter=true&width=500&lines=Learning+AI+%26+Machine+Learning;Exploring+Data+Science;Building+Strong+Programming+Skills" />
 </p>
 
 ---
 
-### 🌱 Currently Learning
-- Web Development Frameworks  
-- Java Programming  
-
-### 📫 How to Reach Me
-- **Email:** [umraniayug4507@gmail.com](mailto:umraniayug4507@gmail.com)  
-
-### ⚡ Fun Fact
-- I think I am also a good photographer 📸  
+## 👨‍💻 About Me
+- 🎓 **CSE Student @ CHARUSAT (DEPSTAR)**  
+- 📘 **4th Semester**
+- 🎯 Goal: **AI / ML Engineer**
+- 📊 Interested in **AI, ML, DSA, DBMS**
+- 🌱 Currently learning **Data Science & Analytics**
 
 ---
 
-### 🔗 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://twitter.com/@yugumrania45" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,html,css" />
+</p>
+
+### 📚 Libraries & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb" />
+</p>
+
+- NumPy, Pandas  
+- Matplotlib, Seaborn  
+- MSSQL  
+
+---
+
+## 🚀 Project Highlight
+
+### 🛒 E-Commerce Inventory Management System
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-b4c1b7bb-5f36-4dbb-a0c6-5d35b0bdb9b8.gif" width="400"/>
+</p>
+
+- 📌 **C++ Console-Based Application**
+- 👥 Team project (3 members)
+- 🧠 Implemented **OOP concepts**
+- 🛒 Product view, cart management, order summary
+
+🔗 **Repo:**  
+👉 https://github.com/YugUmrania/E---Commerce-Inventory-Management-System
+
+---
+
+## 🧠 Coding Profiles
+<p>
+  <a href="https://leetcode.com/u/YugUmrania07/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://linkedin.com/in/yug-umrania-368816331" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
-  </a>
-  <a href="https://instagram.com/yugumrania07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
-  </a>
-  <a href="https://www.hackerrank.com/@umraniayug4507" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" />
-  </a>
-  <a href="https://www.leetcode.com/yugumrania07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" />
+  <a href="https://www.hackerrank.com/profile/24dcs140">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🛠 Languages and Tools
+## 📜 Certifications
+<p>
+  <img src="https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera"/>
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,php,python" alt="Languages and Tools" />
+- ✅ **9 Coursera Certificates**
+🔗 https://www.coursera.org/account/accomplishments/specialization/XSUMIOHQU5ED
+
+---
+
+## 🎯 Interests & Hobbies
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📊 Data Science  
+- 🧩 Problem Solving  
+- 🏸 Badminton  
+- 📱 Mobile & Tech Trends  
+
+---
+
+## 📫 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/yug-umrania-368816331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:umraniayug4507@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/YugUmrania45">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://stats-github-readme.vercel.app/api?username=YugUmrania&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yugumrania&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yugumrania&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=YugUmrania&layout=compact&theme=tokyonight" />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
 </p>
